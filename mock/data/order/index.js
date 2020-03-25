@@ -6,7 +6,7 @@ module.exports = [
         price: "4800",
         rentType: "整租",
         commentState: 0,
-        img: "http://www.wwtliu.com/sxtstu/livable/shop/z1.jpg"
+        img: "http://iwenwiki.com/api/livable/shop/z1.jpg"
     },
     {
         id: Math.random().toString().slice(2),
@@ -15,7 +15,7 @@ module.exports = [
         price: "7200",
         rentType: "整租",
         commentState: 0,
-        img: "http://www.wwtliu.com/sxtstu/livable/shop/z5.jpg"
+        img: "http://iwenwiki.com/api/livable/shop/z5.jpg"
     },
     {
         id: Math.random().toString().slice(2),
@@ -24,6 +24,6 @@ module.exports = [
         price: "4300",
         rentType: "整租",
         commentState: 2,
-        img: "http://www.wwtliu.com/sxtstu/livable/shop/z6.jpg"
+        img: "http://iwenwiki.com/api/livable/shop/z6.jpg"
     }
 ]
